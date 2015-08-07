@@ -1,4 +1,5 @@
-
+ 
+ 
 
 ##<center>工具篇<center/>
 
@@ -24,7 +25,8 @@ Commit and push is a good habit, 在github上托管种满树是愿景。
 
 
 ###B. 辅助工具
-
+[Tower][14]        团队管理工具
+[Trello][15]        任务管理工具
 [马克飞象][12]       Markdown的windows用户，深得人心的配色啊（团队就一个华科人。猛的啊）
 [Markman][9]       超方便的标注工具，谁用谁知道。
 [Ps Play][10]        移动端设计实时查看工具，WiFi连接，不经常掉线就好了
@@ -32,6 +34,9 @@ The Color Picker   取色工具得备一个。
 [有道翻译][11]      翻译工具需要备一个，为了命名规范，也为了查看文档方便。
 [Iconfont][7]     阿里巴巴矢量图标库，移动端、web端通用。使用的时候引入文件、声明字体就可以用。
 but图标项目管理机制会暴露微博号的o(°▽、°o)
+[XMind][16]  个人脑暴工具
+[Prezi][17]   高大上的2.5维展示工具
+[IFTTT][18]  IF THIS THAN THAT #一个推送工具 #保存了一段period的ins
 <br/>
 
 ----------
@@ -72,7 +77,10 @@ HTML5 [《DIVE INTO HTML5》][13]
 <br/>
 <br/>
 #####To be continued..
+
 <br/>
+
+
 
 
 > 引用文字
@@ -91,4 +99,9 @@ HTML5 [《DIVE INTO HTML5》][13]
   [11]: http://dict.youdao.com
   [12]: http://www.maxiang.info
   [13]: http://diveintohtml5.info
+  [14]: http://tower.im
+  [15]: https://trello.com
+  [16]: http://www.xmind.net/cn/
+  [17]: https://prezi.com
+  [18]: https://ifttt.com
 
