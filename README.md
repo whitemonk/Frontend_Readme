@@ -3,9 +3,9 @@
 
 ##<center>工具篇<center/>
 
-
+<br/><br/>
 ###A. 基本开发工具
-
+<br/>
 **1) [Webstorm][1]**
 Webstorm被誉为web开发神器,可以实时保存，自带版本控制台，对JS支持好，插件丰富，详情：[Webstorm有哪些过人之处？][2]
 
@@ -23,7 +23,7 @@ Commit and push is a good habit, 在github上托管种满树是愿景。
 对于开发者而言，利用前端框架可以快速实现好看的、可响应的界面，容易上手，不易出错。最重要的是直接略过了很多细枝末节诸如不居中的问题，why not?
 [除了Bootstrap，还有什么其他前端UI库？][4]
 
-
+<br/><br/>
 ###B. 辅助工具
 <br/>
 
@@ -43,6 +43,7 @@ Commit and push is a good habit, 在github上托管种满树是愿景。
 |[IFTTT][18] | IF THIS THAN THAT #一个推送工具 #保存了一段period的ins|
 
 
+<br/><br/>
 
 ----------
 <br/>
@@ -53,6 +54,7 @@ Commit and push is a good habit, 在github上托管种满树是愿景。
 
 
 ###网站
+<br/>
 1) [W3schol][8] 
 > 在 w3school，你可以找到你所需要的所有的网站建设教程。
 从基础的 HTML 到 CSS，乃至进阶的XML、SQL、JS、PHP 和 ASP.NET。
@@ -71,8 +73,9 @@ PS:慕课的前端交流群氛围很好，大神很多也愿意帮新人(￣▽�
 
 
 
-----------
+<br/><br/>
 ###书籍
+<br/>
 HTML5 [《DIVE INTO HTML5》][13]
 
 ----------
@@ -88,7 +91,7 @@ HTML5 [《DIVE INTO HTML5》][13]
 
 
 
-> 引用文字
+
 
 
   [1]: http://www.jetbrains.com/webstorm/
