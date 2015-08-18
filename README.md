@@ -34,14 +34,14 @@ Commit and push is a good habit, 在github上托管种满树是愿景。
 |:----|:------|
 |[Tower][14]   | 团队管理工具|
 |[Trello][15] |  任务管理工具|
-|[马克飞象][12]   |    Markdown的windows用户福音，深得人心的配色啊（华科人特别猛）|
-|[Markman][9]    |   超方便的标注工具。|
-|[Ps Play][10]    |    移动端设计实时查看工具，WiFi连接|
-|The Color Picker  | 取色工具常备。|
-|[Iconfont][7]   |  阿里巴巴矢量图标库用。使用的时候引入文件、声明字体就可以用。but图标项目管理机制会暴露微博号的o(°▽、°o)|
+|[马克飞象][12]   |    Markdown的windows用户福音（华科人真猛啊）|
+|[Markman][9]    |   超方便的标注工具|
+|[Ps Play][10]    |    移动端设计实时查看工具|
+|The Color Picker  | 取色工具常备|
+|[Iconfont][7]   |  阿里巴巴矢量图标库|
 |[XMind][16] | 个人脑暴工具|
 |[Prezi][17]  | 高大上的2.5维展示工具|
-|[IFTTT][18] | #一个推送工具 #IF THIS THAN THAT #保存了一段period的ins|
+|[IFTTT][18] | 一个推送工具|
 |[Echarts][19]| 数据可视化工具/插件|
 
 <br/><br/>
